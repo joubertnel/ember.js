@@ -33,3 +33,4 @@ tmp
 tmp*.gem
 tmp.bpm
 tmp.spade
+eproject.cfg
